@@ -1,0 +1,87 @@
+[
+    {   
+        "id": 1,
+        "nombre": "LEMON PURPLE",
+        "precio": 10.45,
+        "imagen": "multimedia/purple-lemonade.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "GORILLA COOKIES",
+        "precio": 11.75,
+        "imagen": "multimedia/gorila-cookie-auto.jpg",
+        "cantidad": 1
+    },
+    {   
+        "id": 3,
+        "nombre": "LEMON PIE CBD",
+        "precio": 12.85,
+        "imagen": "multimedia/lemon-pie-auto.jpg",
+        "cantidad": 1
+    },
+    {   
+        "id": 4,
+        "nombre": "STRAWBERRY PIE",
+        "precio": 13.55,
+        "imagen": "multimedia/strawberry-pie-auto.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "DINAMED KUSH",
+        "precio": 14.65,
+        "imagen": "multimedia/dinamed-kush-auto-cbd.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "CHEES GREEN",
+        "precio": 15.65,
+        "imagen": "multimedia/wedding-cheescake-auto.jpg",
+        "cantidad": 1
+    },
+    {   
+        "id": 7,
+        "nombre": "ORANGE SHERBET",
+        "precio": 16.65,
+        "imagen": "multimedia/orange-sherbet-auto.jpg",
+        "cantidad": 1
+    },
+    {   
+        "id": 8,
+        "nombre": "FAST GREEN HAZE",
+        "precio": 17.65,
+        "imagen": "multimedia/fast-green-crack.jpg",
+        "cantidad": 1
+    },
+    {   
+        "id": 9,
+        "nombre": "CHAMPAGEN GREENISH",
+        "precio": 18.65,
+        "imagen": "multimedia/mimosa-champagne.jpg",
+        "cantidad":1
+    },
+    {   
+        "id": 10,
+        "nombre": "SOMANGO GLUE",
+        "precio": 19.65,
+        "imagen": "multimedia/somango-glue.jpg",
+        "cantidad":1
+    },
+    {   
+        "id": 11,
+        "nombre": "LOST COAST OG",
+        "precio": 20.65,
+        "imagen": "multimedia/lost-coast-og.jpg",
+        "cantidad":1
+    },
+    {   
+        "id": 12,
+        "nombre": "AUTO ZKITTLEZ",
+        "precio": 21.65,
+        "imagen": "multimedia/auto-zkittlez.jpg",
+        "cantidad":1
+    }
+] 
+  
